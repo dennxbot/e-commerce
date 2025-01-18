@@ -1,39 +1,3 @@
-## Features
-
-### User Side
-
-*   **User Authentication:**
-    *   User registration with form validation and password hashing.
-    *   User login with secure session management.
-*   **Product Browsing:**
-    *   Homepage to display products.
-    *   Product filtering by category.
-    *   Product sorting by price and name.
-*   **Shopping Cart:**
-    *   Add products to cart.
-    *   Update product quantities in the cart.
-    *   Remove products from the cart.
-    *   View cart summary.
-*   **Checkout:**
-    *   Enter shipping information.
-    *   Cash on Delivery (COD) payment method.
-    *   Order confirmation page with product details and total price.
-*   **User Profile:** (Basic)
-    *   View and update user profile information (name, email).
-
-### Admin Side
-
-*   **Admin Panel:**
-    *   Dashboard with summary statistics (e.g., total users, products, categories).
-    *   Chart.js integration for data visualization (e.g., sales chart).
-*   **Product Management:**
-    *   Add new products with image upload.
-    *   Edit existing products.
-    *   Delete products.
-*   **Category Management:**
-    *   Add new categories.
-    *   Edit existing categories (inline editing).
-    *   Delete categories.
 
 ## Technologies Used
 
